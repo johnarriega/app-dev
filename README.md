@@ -1,6 +1,6 @@
 # app-dev
 My first repository
 My favorite favorite series/movies are:
-John Wick
-Fast and Furios
-The Hobbit
+- John Wick
+- Fast and Furious
+- The Hobbit
